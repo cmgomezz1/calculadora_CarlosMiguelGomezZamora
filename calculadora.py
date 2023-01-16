@@ -1,9 +1,9 @@
-print ("Bienvenido a la calculadora. ¿Qué operación desea realizar?")
+print ("Bienvenido a la calculadora de Carlos Gómez. ¿Qué operación desea realizar?")
 
 import math
 
 while True:
-    print("--- CALCULADORA ---")
+    print("--- MENÚ ---")
     print("1) Suma")
     print("2) Resta")
     print("3) Multiplicación")
