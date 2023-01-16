@@ -38,7 +38,7 @@ while True:
             print("División por cero no permitida.")
     elif opcion == 5:
         resultado = math.sqrt(num1)
-        print("La raiz cuadrada de", num1, "es: ",resultado)
+        print("La raiz cuadrada de ",num1, "es: ",resultado)
     elif opcion == 6:
         exponente = int(input("Ingrese el exponente: "))
         resultado = math.pow(num1, exponente)
