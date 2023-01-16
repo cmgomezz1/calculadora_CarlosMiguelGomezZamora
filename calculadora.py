@@ -48,3 +48,5 @@ while True:
         print("El seno de", num1, "es: ",resultado)
 
     
+
+    
