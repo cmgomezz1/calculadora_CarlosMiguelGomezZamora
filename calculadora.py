@@ -1,4 +1,4 @@
-print ("Bienvenido a la calculadora de Carlos Gómez. ¿Qué operación desea realizar?")
+print ("Bienvenido a la calculadora de Carlos Gómez. Elija la operación que desea realizar en la lista de abajo.")
 
 import math
 
@@ -15,7 +15,7 @@ while True:
 
     opcion = int(input("Seleccione una opción: "))
     if opcion == 8:
-        print("Gracias por utilizar la calculadora.")
+        print("Gracias por utilizar la calculadora de Carlos Gómez.")
         break
 
     num1 = int(input("Ingrese el primer número: "))
